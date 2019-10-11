@@ -33,6 +33,7 @@ body{
 	background-image:url("darkness.png");
 	font-family:sans-serif;
 	font-size:15px;
+	color:white;
 }
 
 #wrapper{
@@ -202,8 +203,4 @@ footer p{
 footer a, nav a:active, nav a:visited{
 	color:#FADA00;
 	text-decoration: none;
-}
-
-p{
-	color:white;
 }
